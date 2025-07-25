@@ -318,6 +318,14 @@
               "description": "",
               "icon": "https://ii.911cha.com/fav/ip.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435722327",
+              "title": "IP地址查询 - 支持IPv6/域名解析/地理位置信息",
+              "href": "https://www.secnn.com/tools/ip-lookup.html",
+              "description": "",
+              "icon": "https://www.secnn.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
