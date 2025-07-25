@@ -126,14 +126,6 @@
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
               "enabled": true
-            },
-            {
-              "id": "1753425783284",
-              "title": "SecNN在线网络安全工具",
-              "href": "https://www.secnn.com/",
-              "description": "测试",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
