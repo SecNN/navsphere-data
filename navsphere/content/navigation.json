@@ -278,6 +278,14 @@
               "description": "",
               "icon": "https://chapangzhan.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435389799",
+              "title": "IP地址数据的可信来源",
+              "href": "https://ipinfo.io",
+              "description": "",
+              "icon": "https://ipinfo.io/favicon.ico",
+              "enabled": true
             }
           ]
         }
