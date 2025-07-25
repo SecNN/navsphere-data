@@ -11,5 +11,5 @@ GITHUB_OWNER = "SecNN"
 GITHUB_REPO = "navsphere-data"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.secnn.com/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.secnn.com"
+NEXT_PUBLIC_API_URL= "https://nav.secnn.com"
 
