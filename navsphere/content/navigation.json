@@ -184,6 +184,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753432972477",
+              "title": "MCP servers | Glama",
+              "href": "http:/glama.ai/mcp/servers",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
