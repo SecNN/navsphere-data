@@ -262,6 +262,14 @@
               "description": "",
               "icon": "https://csstools.chinaz.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435107908",
+              "title": "通过证书查询 IP | Censys ",
+              "href": "https://search.censys.io/search?resource=hosts",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
