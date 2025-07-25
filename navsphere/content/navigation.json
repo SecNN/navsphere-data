@@ -310,6 +310,14 @@
               "description": "",
               "icon": "https://static.cip.cc/static/img/logo.png?v=2",
               "enabled": true
+            },
+            {
+              "id": "1753435648015",
+              "title": "IP地址查询 | 911查询",
+              "href": "https://ip.911cha.com/",
+              "description": "",
+              "icon": "https://ii.911cha.com/fav/ip.ico",
+              "enabled": true
             }
           ]
         }
