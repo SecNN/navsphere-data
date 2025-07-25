@@ -151,6 +151,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "1753433216773",
+              "title": "PPT助手-Kimi",
+              "href": "https://www.kimi.com/kimiplus/cvvm7bkheutnihqi2100",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
