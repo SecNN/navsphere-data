@@ -240,14 +240,6 @@
               "enabled": true
             },
             {
-              "id": "1753434846725",
-              "title": ".CN 国家域名Whois查询",
-              "href": "https://webwhois.cnnic.cn/WelcomeServlet",
-              "description": "",
-              "icon": "https://webwhois.cnnic.cn/favicon.ico",
-              "enabled": true
-            },
-            {
               "id": "1753434930751",
               "title": "反向域名解析 - 按IP地址获取主机名",
               "href": "https://www.dynu.com/zh-CN/NetworkTools/ReverseLookup",
@@ -269,6 +261,14 @@
               "href": "https://whois.chinaz.com/",
               "description": "",
               "icon": "https://csstools.chinaz.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "1753434846725",
+              "title": ".CN 国家域名Whois查询",
+              "href": "https://webwhois.cnnic.cn/WelcomeServlet",
+              "description": "",
+              "icon": "https://webwhois.cnnic.cn/favicon.ico",
               "enabled": true
             }
           ]
