@@ -326,6 +326,14 @@
               "description": "",
               "icon": "https://www.secnn.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435756773",
+              "title": "IP批量查询-站长工具",
+              "href": "https://ip.tool.chinaz.com/ipbatch",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
