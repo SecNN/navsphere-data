@@ -192,6 +192,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753433015837",
+              "title": "MCP Servers | PulseMCP",
+              "href": "https://www.pulsemcp.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
