@@ -238,6 +238,14 @@
               "description": "",
               "icon": "https://webwhois.cnnic.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753434930751",
+              "title": "反向域名解析 - 按IP地址获取主机名",
+              "href": "https://www.dynu.com/zh-CN/NetworkTools/ReverseLookup",
+              "description": "",
+              "icon": "https://www.dynu.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
