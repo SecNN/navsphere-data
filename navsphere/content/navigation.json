@@ -215,6 +215,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a0d12f86-3324-47f7-847e-66fe03bf4c6a",
+          "title": "ICP/IP地址/域名信息备案/Whois",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
