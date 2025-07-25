@@ -268,7 +268,7 @@
               "title": "通过证书查询 IP | Censys ",
               "href": "https://search.censys.io/search?resource=hosts",
               "description": "",
-              "icon": "",
+              "icon": "https://search.censys.io/static/img/favicon.ico",
               "enabled": true
             }
           ]
