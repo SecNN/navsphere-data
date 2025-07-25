@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "/assets/images/alogo.png",
-    "favicon": "/assets/images/favicon.png",
+    "favicon": "https://www.secnn.com/favicon1.ico",
     "theme": "system"
   }
 }
