@@ -197,7 +197,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753433881169",
+              "title": "云悉CMS指纹识别",
+              "href": "https://www.yunsee.cn/",
+              "description": "",
+              "icon": "https://www.yunsee.cn/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
