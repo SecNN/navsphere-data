@@ -193,25 +193,25 @@
       "subCategories": [
         {
           "id": "cd5e85e5-7b0e-4f1a-9d81-e3146579177b",
-          "title": "指纹识别",
+          "title": "CMS 指纹识别",
           "icon": "FileText",
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1753433996597",
-              "title": "TideFinger 潮汐指纹",
-              "href": "http://finger.tidesec.com/",
-              "description": "",
-              "icon": "http://finger.tidesec.com/app/home/view/default/public/images/favicon.ico",
-              "enabled": true
-            },
             {
               "id": "1753433881169",
               "title": "云悉CMS指纹识别",
               "href": "https://www.yunsee.cn/",
               "description": "",
               "icon": "https://www.yunsee.cn/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "1753433996597",
+              "title": "TideFinger 潮汐指纹",
+              "href": "http://finger.tidesec.com/",
+              "description": "",
+              "icon": "http://finger.tidesec.com/app/home/view/default/public/images/favicon.ico",
               "enabled": true
             }
           ]
