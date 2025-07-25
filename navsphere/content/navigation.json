@@ -254,6 +254,14 @@
               "description": "",
               "icon": "https://whoisrequest.com/favicon.png",
               "enabled": true
+            },
+            {
+              "id": "1753435038000",
+              "title": "域名Whois查询-站长工具",
+              "href": "https://whois.chinaz.com/",
+              "description": "",
+              "icon": "https://csstools.chinaz.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
