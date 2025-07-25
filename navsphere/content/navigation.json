@@ -222,7 +222,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753434788221",
+              "title": "ICP/IP地址/域名信息备案查询",
+              "href": "https://beian.miit.gov.cn/#/Integrated/index",
+              "description": "",
+              "icon": "https://beian.miit.gov.cn/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
