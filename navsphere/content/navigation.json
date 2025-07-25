@@ -190,7 +190,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "cd5e85e5-7b0e-4f1a-9d81-e3146579177b",
+          "title": "指纹识别",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
