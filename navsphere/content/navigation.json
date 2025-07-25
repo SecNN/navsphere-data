@@ -182,6 +182,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1753433821862",
+      "title": "信息收集",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
