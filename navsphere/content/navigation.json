@@ -224,6 +224,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1753435107908",
+              "title": "通过证书查询 IP | Censys ",
+              "href": "https://search.censys.io/search?resource=hosts",
+              "description": "",
+              "icon": "https://search.censys.io/static/img/favicon.ico",
+              "enabled": true
+            },
+            {
               "id": "1753434788221",
               "title": "ICP/IP地址/域名信息备案查询",
               "href": "https://beian.miit.gov.cn/#/Integrated/index",
@@ -261,14 +269,6 @@
               "href": "https://whois.chinaz.com/",
               "description": "",
               "icon": "https://csstools.chinaz.com/favicon.ico",
-              "enabled": true
-            },
-            {
-              "id": "1753435107908",
-              "title": "通过证书查询 IP | Censys ",
-              "href": "https://search.censys.io/search?resource=hosts",
-              "description": "",
-              "icon": "https://search.censys.io/static/img/favicon.ico",
               "enabled": true
             }
           ]
