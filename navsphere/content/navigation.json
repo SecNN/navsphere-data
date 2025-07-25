@@ -230,6 +230,14 @@
               "description": "",
               "icon": "https://beian.miit.gov.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753434846725",
+              "title": ".CN 国家域名Whois查询",
+              "href": "https://webwhois.cnnic.cn/WelcomeServlet",
+              "description": "",
+              "icon": "https://webwhois.cnnic.cn/favicon.ico",
+              "enabled": true
             }
           ]
         }
