@@ -302,6 +302,14 @@
               "description": "",
               "icon": "https://www.chaipip.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435611431",
+              "title": "IP查询 - 查IP",
+              "href": "https://www.cip.cc/",
+              "description": "",
+              "icon": "https://static.cip.cc/static/img/logo.png?v=2",
+              "enabled": true
             }
           ]
         }
