@@ -200,6 +200,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753433055806",
+              "title": "MCP广场·魔搭社区",
+              "href": "https://www.modelscope.cn/mcp",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
