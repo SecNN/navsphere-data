@@ -246,6 +246,14 @@
               "description": "",
               "icon": "https://www.dynu.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753435001422",
+              "title": "查找IP、CIDR、ASN或域名",
+              "href": "https://whoisrequest.com/",
+              "description": "",
+              "icon": "https://whoisrequest.com/favicon.png",
+              "enabled": true
             }
           ]
         }
