@@ -127,6 +127,14 @@
               "description": "",
               "icon": "https://csstools.chinaz.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753860340675",
+              "title": "IP地址查询 - 支持IPv6/域名解析/地理位置信息",
+              "href": "https://www.secnn.com/tools/ip-lookup.html",
+              "description": "",
+              "icon": "https://www.secnn.com/favicon1.ico",
+              "enabled": true
             }
           ]
         }
