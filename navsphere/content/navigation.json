@@ -183,6 +183,14 @@
               "description": "",
               "icon": "https://www.ssllabs.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753861546300",
+              "title": "ViewDNS.info - 您值得信赖的域名和 IP 情报来源！",
+              "href": "https://viewdns.info/",
+              "description": "",
+              "icon": "https://viewdns.info/favicon.ico",
+              "enabled": true
             }
           ]
         }
