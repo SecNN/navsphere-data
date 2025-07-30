@@ -135,6 +135,14 @@
               "description": "",
               "icon": "https://www.secnn.com/favicon1.ico",
               "enabled": true
+            },
+            {
+              "id": "1753860831021",
+              "title": "查找DNS主机记录（子域名）",
+              "href": "https://hackertarget.com/find-dns-host-records/",
+              "description": "",
+              "icon": "https://hackertarget.com/wp-content/uploads/2018/03/hackertarget-logo-square.png",
+              "enabled": true
             }
           ]
         }
