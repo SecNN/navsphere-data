@@ -47,6 +47,14 @@
               "description": "",
               "icon": "/assets/img_1753858948014.png",
               "enabled": true
+            },
+            {
+              "id": "1753859430033",
+              "title": "域名Whois查询",
+              "href": "https://whois.chinaz.com/",
+              "description": "",
+              "icon": "https://csstools.chinaz.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
