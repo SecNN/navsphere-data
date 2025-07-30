@@ -34,6 +34,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753858646757",
+      "title": "ICP/IP地址/域名信息查询",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
