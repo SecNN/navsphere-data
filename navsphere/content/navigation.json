@@ -151,6 +151,14 @@
               "description": "",
               "icon": "https://suip.biz/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753861084894",
+              "title": "DNSDumpster - 查找用于侦察和研究的 DNS 记录",
+              "href": "https://dnsdumpster.com/",
+              "description": "",
+              "icon": "https://dnsdumpster.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
