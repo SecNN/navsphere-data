@@ -55,6 +55,14 @@
               "description": "",
               "icon": "https://csstools.chinaz.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753859456198",
+              "title": "Lookup IP, CIDR, ASN or Domain",
+              "href": "https://whoisrequest.com/",
+              "description": "",
+              "icon": "/assets/img_1753859480672.png",
+              "enabled": true
             }
           ]
         }
