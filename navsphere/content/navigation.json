@@ -28,7 +28,7 @@
               "title": "TideFinger 潮汐在线指纹识别",
               "href": "http://finger.tidesec.com/",
               "description": "",
-              "icon": "http://finger.tidesec.com/app/home/view/default/public/images/favicon.ico",
+              "icon": "/assets/img_1753858220041.png",
               "enabled": true
             }
           ]
