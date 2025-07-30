@@ -71,6 +71,14 @@
               "description": "",
               "icon": "/assets/img_1753859513326.png",
               "enabled": true
+            },
+            {
+              "id": "1753859526975",
+              "title": ".CN 域名Whois查询",
+              "href": "https://webwhois.cnnic.cn/WelcomeServlet",
+              "description": "",
+              "icon": "/assets/img_1753859580888.png",
+              "enabled": true
             }
           ]
         }
