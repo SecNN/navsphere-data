@@ -175,6 +175,14 @@
               "description": "",
               "icon": "https://crt.sh/sectigo_s.png",
               "enabled": true
+            },
+            {
+              "id": "1753861365960",
+              "title": "SSL 服务器测试（由 Qualys SSL Labs 提供支持）",
+              "href": "https://www.ssllabs.com/ssltest/analyze.html?d=",
+              "description": "",
+              "icon": "https://www.ssllabs.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
