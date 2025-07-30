@@ -95,6 +95,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753860108803",
+              "title": "IP查询",
+              "href": "https://www.cip.cc/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
