@@ -22,6 +22,14 @@
               "description": "",
               "icon": "https://www.yunsee.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753858148332",
+              "title": "TideFinger 潮汐在线指纹识别",
+              "href": "http://finger.tidesec.com/",
+              "description": "",
+              "icon": "http://finger.tidesec.com/app/home/view/default/public/images/favicon.ico",
+              "enabled": true
             }
           ]
         }
