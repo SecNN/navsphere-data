@@ -532,14 +532,6 @@
               "description": "电影般的视觉效果和动态图形。",
               "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
               "enabled": true
-            },
-            {
-              "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.png",
-              "enabled": true
             }
           ],
           "enabled": true
