@@ -111,6 +111,14 @@
               "description": "",
               "icon": "https://www.chaipip.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753860187222",
+              "title": "IP地址查询、可查本机IP是多少 - 911查询",
+              "href": "https://ip.911cha.com/",
+              "description": "",
+              "icon": "https://ii.911cha.com/ccxdq.png",
+              "enabled": true
             }
           ]
         }
