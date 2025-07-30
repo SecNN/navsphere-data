@@ -63,6 +63,14 @@
               "description": "",
               "icon": "/assets/img_1753859480672.png",
               "enabled": true
+            },
+            {
+              "id": "1753859494845",
+              "title": "域名信息备案管理系统",
+              "href": "https://beian.miit.gov.cn/#/Integrated/index",
+              "description": "",
+              "icon": "/assets/img_1753859513326.png",
+              "enabled": true
             }
           ]
         }
