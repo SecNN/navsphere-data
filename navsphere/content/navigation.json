@@ -119,6 +119,14 @@
               "description": "",
               "icon": "https://ii.911cha.com/ccxdq.png",
               "enabled": true
+            },
+            {
+              "id": "1753860278405",
+              "title": "IP批量查询 - 站长工具",
+              "href": "https://ip.tool.chinaz.com/ipbatch",
+              "description": "",
+              "icon": "https://csstools.chinaz.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
