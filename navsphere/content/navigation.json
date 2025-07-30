@@ -87,6 +87,14 @@
               "description": "",
               "icon": "https://chapangzhan.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1753860060531",
+              "title": "同IP网站查询,C段查询,IP反查域名,在线C段,旁站工具 - WebScan",
+              "href": "https://www.webscan.cc/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
