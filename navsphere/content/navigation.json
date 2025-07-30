@@ -14,7 +14,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753858080316",
+              "title": "云悉CMS指纹识别平台",
+              "href": "https://www.yunsee.cn/",
+              "description": "",
+              "icon": "https://www.yunsee.cn/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
