@@ -39,7 +39,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753858750597",
+              "title": "Censys证书查询IP",
+              "href": "https://search.censys.io/search?resource=hosts",
+              "description": "",
+              "icon": "https://search.censys.io/static/img/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
