@@ -7,7 +7,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "b0c9d67a-8759-4199-80dd-76b75015a3ac",
+          "title": "CMS指纹识别",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
