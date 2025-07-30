@@ -45,7 +45,7 @@
               "title": "Censys证书查询IP",
               "href": "https://search.censys.io/search?resource=hosts",
               "description": "",
-              "icon": "https://search.censys.io/static/img/favicon.ico",
+              "icon": "/assets/img_1753858948014.png",
               "enabled": true
             }
           ]
