@@ -5,8 +5,8 @@
     "keywords": "网络安全工具,渗透测试,漏洞扫描,ShellCode免杀,红队工具,AI安全助手,HTTPServer,黑客工具,Web安全,AI安全检测,红队演练,安全测试、渗透测试工具,CS免杀,免杀木马,内网渗透,攻击模拟,C2服务器,红蓝对抗,Kali Linux工具,黑客攻防"
   },
   "appearance": {
-    "logo": "/assets/images/alogo.png",
-    "favicon": "/assets/images/favicon.png",
+    "logo": "https://www.secnn.com/favicon.ico",
+    "favicon": "https://www.secnn.com/favicon.ico",
     "theme": "system"
   }
 }
