@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1753858042650",
+      "title": "信息收集",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
