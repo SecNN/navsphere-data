@@ -143,6 +143,14 @@
               "description": "",
               "icon": "https://hackertarget.com/wp-content/uploads/2018/03/hackertarget-logo-square.png",
               "enabled": true
+            },
+            {
+              "id": "1753860944764",
+              "title": "查找 CloudFlare 网络背后隐藏 IP",
+              "href": "https://suip.biz/?act=cloudfail",
+              "description": "",
+              "icon": "https://suip.biz/favicon.ico",
+              "enabled": true
             }
           ]
         }
