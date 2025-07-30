@@ -79,6 +79,14 @@
               "description": "",
               "icon": "/assets/img_1753859580888.png",
               "enabled": true
+            },
+            {
+              "id": "1753859989596",
+              "title": "查旁站",
+              "href": "https://chapangzhan.com/",
+              "description": "",
+              "icon": "https://chapangzhan.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
