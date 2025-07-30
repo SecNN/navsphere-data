@@ -32,6 +32,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "fe1931f0-31e9-4dd5-a277-f32e2d5dff57",
+          "title": "ICP/IP地址/域名信息查询",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
